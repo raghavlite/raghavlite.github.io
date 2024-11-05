@@ -1,22 +1,61 @@
 main:
+  - title: "GenEOL: Harnessing the Generative Power of LLMs for Training-Free Sentence Embeddings"
+    authors: <strong>Raghuveer Thirukovalluru</strong>, Bhuwan Dhingra
+    conference_short: Preprint
+    conference: arXiv
+    pdf: https://arxiv.org/pdf/2410.14635
+    code: https://github.com/raghavlite/GenEOL
+    image: ./assets/img/geneol.png
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: Atomic Self-Consistency for Better Long Form Generations
+    authors: <strong>Raghuveer Thirukovalluru</strong>, Yukun Huang, Bhuwan Dhingra
+    conference_short: EMNLP
+    conference: In Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024)
+    pdf: https://arxiv.org/pdf/2405.13131
+    code: https://arxiv.org/pdf/2405.13131
+    image: ./assets/img/asc.png
+    notes: Oral at SouthNLPSymposium 2024
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "SumCSE: Summary as a transformation for Contrastive Learning"
+    authors: <strong>Raghuveer Thirukovalluru</strong>, Xiaolan Wang, Jun Chen, Shuyang Li, Jie Lei, Rong Jin, Bhuwan Dhingra
+    conference_short: NAACL
+    conference: In Findings of the Association for Computational Linguistics (NAACL 2024)
+    pdf: https://aclanthology.org/2024.findings-naacl.227.pdf
+    code: https://github.com/raghavlite/SumCSE
+    image: ./assets/img/sumcse.png
+
+
+  - title: Sequence Reducible Holdout Loss for Language Model Pretraining
+    authors: <strong>Raghuveer Thirukovalluru</strong>, Nicholas Monath, Bhuwan Dhingra, Sam Wiseman
+    conference_short: COLING
+    conference: In Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)
+    pdf: https://aclanthology.org/2024.lrec-main.1281.pdf
+    code: https://github.com/raghavlite/fast-pt
+    image: ./assets/img/srhol.png
+
+  - title: Knowledge Informed Semantic Parsing for Conversational Question Answering
+    authors: <strong>Raghuveer Thirukovalluru*</strong>, Mukund Sridhar*, Dung Thai*, Shruti Chanumolu, Nicholas Monath, Sankaranarayanan Ananthakrishnan, Andrew McCallum (*Equal Author)
+    conference_short: RepL4NLP
+    conference: Workshop on Representation Learning for NLP (RepL4NLP-2021).
+    pdf: https://aclanthology.org/2021.repl4nlp-1.24.pdf
+    code: https://aclanthology.org/2021.repl4nlp-1.24.pdf
+    image: ./assets/img/kisp.png
+
+  - title: Simultaneously self-attending to text and entities for knowledge-informed text representations
+    authors: Dung Thai*, <strong>Raghuveer Thirukovalluru*</strong>, Trapit Bansal*, Andrew McCallum (*Equal Author)
+    conference_short: RepL4NLP
+    conference: Workshop on Representation Learning for NLP (RepL4NLP-2021).
+    pdf: https://aclanthology.org/2021.repl4nlp-1.25.pdf
+    code: https://aclanthology.org/2021.repl4nlp-1.25.pdf
+    image: ./assets/img/knit.png
+ 
+
+  - title: "Scaling within document coreference to long texts."
+    authors: <strong>Raghuveer Thirukovalluru</strong>, Nicholas Monath, Kumar Shridhar, Manzil Zaheer, Mrinmaya Sachan, and Andrew McCallum.
+    conference_short: ACL
+    conference: Findings of the Association for Computational Linguistics, ACL-IJCNLP 2021 (2021)
+    pdf: https://aclanthology.org/2021.findings-acl.343.pdf
+    code: https://aclanthology.org/2021.findings-acl.343.pdf
+    image: ./assets/img/coref.png
+
+

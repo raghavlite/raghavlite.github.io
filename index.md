@@ -2,22 +2,26 @@
 layout: homepage
 ---
 
-## About Me
+## The Story of Me
 
-I am a Ph.D. student at ...
+I am a 4-th year Ph.D. student at Duke University. I am very fortunate to be advised by Prof. [Bhuwan Dhingra](https://users.cs.duke.edu/~bdhingra/). Prior to starting my PhD, I was a masters student at [UMass Amherst](https://www.umass.edu/) where I worked on amazing projects with [IESL](https://www.iesl.cs.umass.edu/). I spent four amazing years of my undergrad at [IIT Kanpur](https://www.iitk.ac.in/).
+
+After my undergrad I spent 2 years at Xerox Research working on some text and graph problems. Over the years, I've intered at multiple places including [MetaAI](https://www.meta.ai/), [XRCI](https://india.news.xerox.com/2015/03/01/xerox-research-centre-india-concludes-xrci-open-2015/), [IESL](https://www.iesl.cs.umass.edu/).
+
 
 ## Research Interests
-
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+My research in Machine Learning for Natural Language Processing (NLP) focuses on enhancing performance of Large Language Models. I've worked on integrating knowledge graphs to improve reasoning in question-answering, optimizing coreference resolution efficiency. Currently, I’m interested in adaptively applying inference-time compute to improve long-form generation, embeddings, and other tasks. 
 
 ## News
+- **[Nov. 2024]** Will be presenting 'Atomic Self-Consistency' at EMNLP 2024. Come say hi!!. 
+- **[Oct. 2024]** New prepreint on training-free embeddings on arXiv. Checkout GenEOL.
+- **[June. 2024]** Presented 'Summary Transformation for Contrastive Learning' at NAACL.
+- **[May. 2024]** Presented 'Sequence Reducible Holdout Loss for LM Pretraining' at COLING.
+- **[Apr. 2024]** Presented 'Atomic Self-Consistency' at the SouthNLPSymposium (Oral).
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
-
+<br>
 {% include_relative _includes/publications.md %}
-
+<br>
 {% include_relative _includes/services.md %}
+<br>
+{% include_relative _includes/misc.md %}
