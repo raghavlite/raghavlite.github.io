@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-## The Story of Me
+## About Me
 
 I am a 4-th year Ph.D. student at Duke University. I am very fortunate to be advised by Prof. [Bhuwan Dhingra](https://users.cs.duke.edu/~bdhingra/). Prior to starting my PhD, I was a masters student at [UMass Amherst](https://www.umass.edu/) where I worked on amazing projects with [IESL](https://www.iesl.cs.umass.edu/). I spent four amazing years of my undergrad at [IIT Kanpur](https://www.iitk.ac.in/).
 
