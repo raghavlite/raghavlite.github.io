@@ -1,8 +1,8 @@
 main:
   - title: "GenEOL: Harnessing the Generative Power of LLMs for Training-Free Sentence Embeddings"
     authors: <strong>Raghuveer Thirukovalluru</strong>, Bhuwan Dhingra
-    conference_short: Preprint
-    conference: arXiv
+    conference_short: NAACL
+    conference: NAACL Findings 2025
     pdf: https://arxiv.org/pdf/2410.14635
     code: https://github.com/raghavlite/GenEOL
     image: ./assets/img/geneol.png
