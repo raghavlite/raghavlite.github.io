@@ -13,7 +13,10 @@ After my undergrad I spent 2 years at Xerox Research working on some text and gr
 My research in Machine Learning for Natural Language Processing (NLP) focuses on enhancing performance of Large Language Models. I've worked on integrating knowledge graphs to improve reasoning in question-answering, optimizing coreference resolution efficiency. Currently, I’m interested in adaptively applying inference-time compute to improve long-form generation, embeddings, and other tasks. 
 
 ## News
-- **[Nov. 2024]** Will be presenting 'Atomic Self-Consistency' at EMNLP 2024. Come say hi!!. 
+- **[May. 2025]** New preprint on using smart batch mining for contrastive learning 'B3' on Arxiv. 
+- **[May. 2025]** New preprint on using atomic self-consistency as a signial for preference optimizaiton 'ACPO' on Arxiv. 
+- **[May. 2025]** Presented 'GenEOl' at NAACL 2025. 
+- **[Dec. 2024]** Presented 'Atomic Self-Consistency' at EMNLP 2024. 
 - **[Oct. 2024]** New prepreint on training-free embeddings on arXiv. Checkout GenEOL.
 - **[June. 2024]** Presented 'Summary Transformation for Contrastive Learning' at NAACL.
 - **[May. 2024]** Presented 'Sequence Reducible Holdout Loss for LM Pretraining' at COLING.
