@@ -19,7 +19,7 @@ main:
   - title: "GenEOL: Harnessing the Generative Power of LLMs for Training-Free Sentence Embeddings"
     authors: <strong>Raghuveer Thirukovalluru</strong>, Bhuwan Dhingra
     conference_short: NAACL
-    conference: NAACL Findings 2025
+    conference: In Findings of the North American Association for Computational Linguistics (NAACL 2025)
     pdf: https://arxiv.org/pdf/2410.14635
     code: https://github.com/raghavlite/GenEOL
     image: ./assets/img/geneol.png
@@ -36,7 +36,7 @@ main:
   - title: "SumCSE: Summary as a transformation for Contrastive Learning"
     authors: <strong>Raghuveer Thirukovalluru</strong>, Xiaolan Wang, Jun Chen, Shuyang Li, Jie Lei, Rong Jin, Bhuwan Dhingra
     conference_short: NAACL
-    conference: In Findings of the Association for Computational Linguistics (NAACL 2024)
+    conference: In Findings of the North American Association for Computational Linguistics (NAACL 2024)
     pdf: https://aclanthology.org/2024.findings-naacl.227.pdf
     code: https://github.com/raghavlite/SumCSE
     image: ./assets/img/sumcse.png
