@@ -1,12 +1,12 @@
 main:
   - title: "Breaking the Batch Barrier (B3) of Contrastive Learning via Smart Batch Mining"
     authors: <strong>Raghuveer Thirukovalluru</strong>, Rui Meng, Ye Liu, Karthikeyan K, Mingyi Su, Ping Nie, Semih Yavuz, Yingbo Zhou, Wenhu Chen, Bhuwan Dhingra
-    conference_short: Arxiv
-    conference: Arxiv
+    conference_short: NeurIPS
+    conference: NeurIPS 2025
     pdf: https://arxiv.org/pdf/2505.11293
     code: https://github.com/raghavlite/B3
     image: ./assets/img/b3.png
-    notes: SOTA on MMEB Leaderboard
+    notes: Spotlight at NeurIPS; SOTA on MMEB Leaderboard
 
   - title: "Atomic Consistency Preference Optimization for Long-Form Question Answering"
     authors: Jingfeng Chen*, <strong>Raghuveer Thirukovalluru*</strong>, Junlin Wang, Kaiwei Luo, Bhuwan Dhingra (*Equal Author)
