@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a 4-th year Ph.D. student at Duke University. I am very fortunate to be advised by Prof. [Bhuwan Dhingra](https://users.cs.duke.edu/~bdhingra/). Prior to starting my PhD, I was a masters student at [UMass Amherst](https://www.umass.edu/) where I worked on amazing projects with [IESL](https://www.iesl.cs.umass.edu/). I spent four amazing years of my undergrad at [IIT Kanpur](https://www.iitk.ac.in/).
+I am a 5-th year Ph.D. student at Duke University. I am very fortunate to be advised by Prof. [Bhuwan Dhingra](https://users.cs.duke.edu/~bdhingra/). Prior to starting my PhD, I was a masters student at [UMass Amherst](https://www.umass.edu/) where I worked on amazing projects with [IESL](https://www.iesl.cs.umass.edu/). I spent four amazing years of my undergrad at [IIT Kanpur](https://www.iitk.ac.in/).
 
 After my undergrad I spent 2 years at Xerox Research working on some text and graph problems. Over the years, I've interned at multiple places including [MetaAI](https://www.meta.ai/), [XRCI](https://india.news.xerox.com/2015/03/01/xerox-research-centre-india-concludes-xrci-open-2015/), [IESL](https://www.iesl.cs.umass.edu/).
 
