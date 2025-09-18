@@ -15,7 +15,7 @@ My research in Machine Learning for Natural Language Processing (NLP) focuses on
 ## News
 - **[May. 2025]** New preprint on using smart batch mining for contrastive learning 'B3' on Arxiv. 
 - **[May. 2025]** New preprint on using atomic self-consistency as a signial for preference optimizaiton 'ACPO' on Arxiv. 
-- **[May. 2025]** Presented 'GenEOl' at NAACL 2025. 
+- **[May. 2025]** Presented 'GenEOL' at NAACL 2025. 
 - **[Dec. 2024]** Presented 'Atomic Self-Consistency' at EMNLP 2024. 
 - **[Oct. 2024]** New prepreint on training-free embeddings on arXiv. Checkout GenEOL.
 - **[June. 2024]** Presented 'Summary Transformation for Contrastive Learning' at NAACL.
