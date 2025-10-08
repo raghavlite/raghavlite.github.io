@@ -50,6 +50,14 @@ main:
     code: https://github.com/raghavlite/fast-pt
     image: ./assets/img/srhol.png
 
+  - title: "Scaling within document coreference to long texts."
+    authors: <strong>Raghuveer Thirukovalluru</strong>, Nicholas Monath, Kumar Shridhar, Manzil Zaheer, Mrinmaya Sachan, and Andrew McCallum.
+    conference_short: ACL
+    conference: Findings of the Association for Computational Linguistics, ACL-IJCNLP 2021 (2021)
+    pdf: https://aclanthology.org/2021.findings-acl.343.pdf
+    code: https://aclanthology.org/2021.findings-acl.343.pdf
+    image: ./assets/img/coref.png
+
   - title: Knowledge Informed Semantic Parsing for Conversational Question Answering
     authors: <strong>Raghuveer Thirukovalluru*</strong>, Mukund Sridhar*, Dung Thai*, Shruti Chanumolu, Nicholas Monath, Sankaranarayanan Ananthakrishnan, Andrew McCallum (*Equal Author)
     conference_short: RepL4NLP
@@ -65,14 +73,4 @@ main:
     pdf: https://aclanthology.org/2021.repl4nlp-1.25.pdf
     code: https://aclanthology.org/2021.repl4nlp-1.25.pdf
     image: ./assets/img/knit.png
- 
-
-  - title: "Scaling within document coreference to long texts."
-    authors: <strong>Raghuveer Thirukovalluru</strong>, Nicholas Monath, Kumar Shridhar, Manzil Zaheer, Mrinmaya Sachan, and Andrew McCallum.
-    conference_short: ACL
-    conference: Findings of the Association for Computational Linguistics, ACL-IJCNLP 2021 (2021)
-    pdf: https://aclanthology.org/2021.findings-acl.343.pdf
-    code: https://aclanthology.org/2021.findings-acl.343.pdf
-    image: ./assets/img/coref.png
-
 
