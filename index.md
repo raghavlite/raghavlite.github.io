@@ -25,7 +25,6 @@ My research in Machine Learning for Natural Language Processing (NLP) focuses on
 ## Talks
 - **[Oct. 2025]** Invited talk for 'B3' at Microsoft Research India
 - **[July. 2025]** Presented 'B3' in AI Orgs Reading @ Meta AI
-  
 <br>
 {% include_relative _includes/publications.md %}
 <br>
