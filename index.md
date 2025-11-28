@@ -13,7 +13,7 @@ After my undergrad I spent 2 years at Xerox Research working on some text and gr
 My research in Machine Learning for Natural Language Processing (NLP) focuses on enhancing performance of Large Language Models. I've worked on integrating knowledge graphs to improve reasoning in question-answering, optimizing coreference resolution efficiency. Currently, I’m interested in adaptively applying inference-time compute to improve long-form generation, embeddings, and other tasks. 
 
 ## News
-- **[Nov. 2025]** Summer internship work with FAIR, 'TGSIE' on Arxiv.
+- **[Nov. 2025]** Summers 25 internship work with FAIR, 'TGSIE' on Arxiv.
 - **[Oct. 2025]** 'ACPO' accepted as **Oral** presentaion at IJCNLP-AACL.
 - **[Sept. 2025]** 'B3' accepted as a **Spotlight** presentation at NeurIPS 2025 
 - **[May. 2025]** Presented 'GenEOL' at NAACL 2025. 
