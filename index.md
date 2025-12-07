@@ -22,9 +22,14 @@ My research in Machine Learning for Natural Language Processing (NLP) focuses on
 - **[May. 2024]** Presented 'Sequence Reducible Holdout Loss for LM Pretraining' at COLING.
 - **[Apr. 2024]** Presented 'Atomic Self-Consistency' at the SouthNLPSymposium (**Oral**).
 
+## Awards
+- Best Ph.D. Preliminary Research Exam Award, Duke Computer Science (2024–2025).
+
 ## Talks
+- **[Dec. 2025]** 'B3' lightning talk at salesforce booth.
 - **[Oct. 2025]** Invited talk for 'B3' at Microsoft Research India
 - **[July. 2025]** Presented 'B3' in AI Orgs Reading @ Meta AI
+  
 <br>
 {% include_relative _includes/publications.md %}
 <br>
