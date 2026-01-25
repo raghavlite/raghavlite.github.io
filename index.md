@@ -15,7 +15,7 @@ My current research interests center on multimodal representation learning and i
 
 ## News
 - **[Nov. 2025]** Summers '25 internship work with FAIR, 'TGSIE' on Arxiv.
-- **[Oct. 2025]** 'ACPO' accepted as **Oral** presentaion at IJCNLP-AACL.
+- **[Oct. 2025]** 'ACPO' accepted as **Oral** presentaion at IJCNLP-AACL 2025.
 - **[Sept. 2025]** 'B3' accepted as a **Spotlight** presentation at NeurIPS 2025 
 - **[May. 2025]** Presented 'GenEOL' at NAACL 2025. 
 - **[Dec. 2024]** Presented 'Atomic Self-Consistency' at EMNLP 2024. 
