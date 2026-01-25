@@ -21,7 +21,7 @@ My current research interests center on multimodal representation learning and i
 - **[Dec. 2024]** Presented 'Atomic Self-Consistency' at EMNLP 2024. 
 - **[June. 2024]** Presented 'Summary Transformation for Contrastive Learning' at NAACL 2024.
 - **[May. 2024]** Presented 'Sequence Reducible Holdout Loss for LM Pretraining' at COLING 2024.
-- **[Apr. 2024]** Presented 'Atomic Self-Consistency' at the SouthNLPSymposium (**Oral**).
+- **[Apr. 2024]** Presented 'Atomic Self-Consistency' at the SouthNLPSymposium 2024 (**Oral**).
 
 ## Awards
 - Best Ph.D. Preliminary Research Exam Award, Duke Computer Science (2024–2025).
