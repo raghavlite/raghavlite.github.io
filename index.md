@@ -4,7 +4,8 @@ layout: homepage
 
 ## About Me
 
-I am final year PhD student in the department of Computer Science at Duke University. I am very fortunate to be advised by Prof. [Bhuwan Dhingra](https://users.cs.duke.edu/~bdhingra/). Prior to starting my PhD, I was a Masters student at [UMass Amherst](https://www.umass.edu/) where I worked on amazing projects with [IESL](https://www.iesl.cs.umass.edu/). I spent four amazing years of my undergraduate at [IIT Kanpur](https://www.iitk.ac.in/).
+I am a final-year PhD student in the Department of Computer Science at Duke University, where I'm fortunate to be advised by Prof. [Bhuwan Dhingra](https://users.cs.duke.edu/~bdhingra/). Prior to my PhD, I completed my Master’s degree at [UMass Amherst](https://www.umass.edu/), where I worked with the Information Extraction and Synthesis Lab ([IESL](https://www.iesl.cs.umass.edu/)). I earned my undergraduate degree from IIT Kanpur.
+
 
 After my undergrad I spent 2 years at Xerox Research working on some text and graph problems. Over the years, I've interned at multiple places including [FAIR](https://ai.meta.com/research/), [MetaAI](https://ai.meta.com/research/), [XRCI](https://india.news.xerox.com/2015/03/01/xerox-research-centre-india-concludes-xrci-open-2015/), [IESL](https://www.iesl.cs.umass.edu/).
 
@@ -26,9 +27,10 @@ My current research interests center on multimodal representation learning and i
 - Best Ph.D. Preliminary Research Exam Award, Duke Computer Science (2024–2025).
 
 ## Talks
+- **[Dec. 2025]** Talk on Multimodal retrieval at Ebay Research.
 - **[Dec. 2025]** 'B3' lightning talk at Salesforce booth, NeurIPS 2025.
 - **[Oct. 2025]** Invited talk for 'B3' at Microsoft Research India.
-- **[July. 2025]** Presented 'B3' in AI Orgs Reading @ Meta AI.
+- **[July. 2025]** Presented 'B3' in AI Orgs Reading at Meta AI.
   
 <br>
 {% include_relative _includes/publications.md %}
