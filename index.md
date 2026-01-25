@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a final-year PhD student in the Department of Computer Science at Duke University, where I'm fortunate to be advised by Prof. [Bhuwan Dhingra](https://users.cs.duke.edu/~bdhingra/). Prior to my PhD, I completed my Master’s degree at [UMass Amherst](https://www.umass.edu/), where I worked with the Information Extraction and Synthesis Lab ([IESL](https://www.iesl.cs.umass.edu/)). I earned my undergraduate degree from IIT Kanpur.
+I am a final year PhD student in the Department of Computer Science at Duke University, where I'm fortunate to be advised by Prof. [Bhuwan Dhingra](https://users.cs.duke.edu/~bdhingra/). Prior to my PhD, I completed my Master’s degree at [UMass Amherst](https://www.umass.edu/), where I worked with the Information Extraction and Synthesis Lab ([IESL](https://www.iesl.cs.umass.edu/)). I earned my undergraduate degree from IIT Kanpur.
 
 
 After my undergrad I spent 2 years at Xerox Research working on some text and graph problems. Over the years, I've interned at multiple places including [FAIR](https://ai.meta.com/research/), [MetaAI](https://ai.meta.com/research/), [XRCI](https://india.news.xerox.com/2015/03/01/xerox-research-centre-india-concludes-xrci-open-2015/), [IESL](https://www.iesl.cs.umass.edu/).
@@ -14,7 +14,7 @@ After my undergrad I spent 2 years at Xerox Research working on some text and gr
 My current research interests center on multimodal representation learning and its applications in document visual question answering. In the past, I've worked on mitigation of large language model hallucinations, the construction and integration of knowledge graphs, and the optimization of self-supervised langauge model pre-training objectives.
 
 ## News
-- **[Nov. 2025]** Summers '25 internship work with FAIR, 'TGSIE' on Arxiv.
+- **[Nov. 2025]** Summers `25 internship work with FAIR, 'TGSIE' on Arxiv.
 - **[Oct. 2025]** 'ACPO' accepted as **Oral** presentaion at IJCNLP-AACL.
 - **[Sept. 2025]** 'B3' accepted as a **Spotlight** presentation at NeurIPS 2025 
 - **[May. 2025]** Presented 'GenEOL' at NAACL 2025. 
