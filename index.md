@@ -4,13 +4,13 @@ layout: homepage
 
 ## About Me
 
-I am a 5-th year Ph.D. student at Duke University. I am very fortunate to be advised by Prof. [Bhuwan Dhingra](https://users.cs.duke.edu/~bdhingra/). Prior to starting my PhD, I was a masters student at [UMass Amherst](https://www.umass.edu/) where I worked on amazing projects with [IESL](https://www.iesl.cs.umass.edu/). I spent four amazing years of my undergrad at [IIT Kanpur](https://www.iitk.ac.in/).
+I am final year PhD student in the department of Computer Science at Duke University. I am very fortunate to be advised by Prof. [Bhuwan Dhingra](https://users.cs.duke.edu/~bdhingra/). Prior to starting my PhD, I was a Masters student at [UMass Amherst](https://www.umass.edu/) where I worked on amazing projects with [IESL](https://www.iesl.cs.umass.edu/). I spent four amazing years of my undergraduate at [IIT Kanpur](https://www.iitk.ac.in/).
 
 After my undergrad I spent 2 years at Xerox Research working on some text and graph problems. Over the years, I've interned at multiple places including [FAIR](https://ai.meta.com/research/), [MetaAI](https://ai.meta.com/research/), [XRCI](https://india.news.xerox.com/2015/03/01/xerox-research-centre-india-concludes-xrci-open-2015/), [IESL](https://www.iesl.cs.umass.edu/).
 
 
 ## Research Interests
-My research in Machine Learning for Natural Language Processing (NLP) focuses on enhancing performance of Large Language Models. I've worked on integrating knowledge graphs to improve reasoning in question-answering, optimizing coreference resolution efficiency. Currently, I’m interested in adaptively applying inference-time compute to improve long-form generation, embeddings, and other tasks. 
+My current research interests center on multimodal representation learning and its applications in document visual question answering. In the past, I've worked on mitigation of large language model hallucinations, the construction and integration of knowledge graphs, and the optimization of self-supervised langauge model pre-training objectives.
 
 ## News
 - **[Nov. 2025]** Summers 25 internship work with FAIR, 'TGSIE' on Arxiv.
@@ -18,8 +18,8 @@ My research in Machine Learning for Natural Language Processing (NLP) focuses on
 - **[Sept. 2025]** 'B3' accepted as a **Spotlight** presentation at NeurIPS 2025 
 - **[May. 2025]** Presented 'GenEOL' at NAACL 2025. 
 - **[Dec. 2024]** Presented 'Atomic Self-Consistency' at EMNLP 2024. 
-- **[June. 2024]** Presented 'Summary Transformation for Contrastive Learning' at NAACL.
-- **[May. 2024]** Presented 'Sequence Reducible Holdout Loss for LM Pretraining' at COLING.
+- **[June. 2024]** Presented 'Summary Transformation for Contrastive Learning' at NAACL 2024.
+- **[May. 2024]** Presented 'Sequence Reducible Holdout Loss for LM Pretraining' at COLING 2024.
 - **[Apr. 2024]** Presented 'Atomic Self-Consistency' at the SouthNLPSymposium (**Oral**).
 
 ## Awards
@@ -27,8 +27,8 @@ My research in Machine Learning for Natural Language Processing (NLP) focuses on
 
 ## Talks
 - **[Dec. 2025]** 'B3' lightning talk at Salesforce booth, NeurIPS 2025.
-- **[Oct. 2025]** Invited talk for 'B3' at Microsoft Research India
-- **[July. 2025]** Presented 'B3' in AI Orgs Reading @ Meta AI
+- **[Oct. 2025]** Invited talk for 'B3' at Microsoft Research India.
+- **[July. 2025]** Presented 'B3' in AI Orgs Reading @ Meta AI.
   
 <br>
 {% include_relative _includes/publications.md %}
