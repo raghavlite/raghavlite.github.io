@@ -14,7 +14,7 @@ After my undergrad I spent 2 years at Xerox Research working on some text and gr
 My current research interests center on multimodal representation learning and its applications in document visual question answering. In the past, I've worked on mitigation of large language model hallucinations, the construction and integration of knowledge graphs, and the optimization of self-supervised langauge model pre-training objectives.
 
 ## News
-- **[Nov. 2025]** Summers '25 internship work with FAIR, 'TGSIE' on Arxiv.
+- **[Nov. 2025]** Summers (2025) internship work with FAIR, 'TGSIE' on Arxiv.
 - **[Oct. 2025]** 'ACPO' accepted as **Oral** presentaion at IJCNLP-AACL 2025.
 - **[Sept. 2025]** 'B3' accepted as a **Spotlight** presentation at NeurIPS 2025 
 - **[May. 2025]** Presented 'GenEOL' at NAACL 2025. 
